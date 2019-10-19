@@ -9,3 +9,6 @@ Le nombre de jalon est souvent plus grand que les activités mises en évidence,
 formations.
 
 ![venseignant](https://user-images.githubusercontent.com/26385729/67140186-3adb3880-f258-11e9-99d5-d622712c6656.png)
+
+### Notification ###
+Lorsque le mode édition est activé, si le cours possède des jalons le bloc affiche le message suivant :
