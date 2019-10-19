@@ -7,3 +7,5 @@ une fois la page chargée.
 Le bloc présente la liste des formations, le nombre de formation et le nombre de définition de jalon dans ce cours. 
 Le nombre de jalon est souvent plus grand que les activités mises en évidence, une activité pouvant être utilisée comme jalon par plusieurs
 formations.
+
+![venseignant](https://user-images.githubusercontent.com/26385729/67140186-3adb3880-f258-11e9-99d5-d622712c6656.png)
