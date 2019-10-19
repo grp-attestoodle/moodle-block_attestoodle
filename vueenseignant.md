@@ -20,3 +20,8 @@ Si le cours ne porte aucun jalon, le bloc présentera toujours :
 
 ### Remarque ###
 Cacher le bloc attestoodle, rend le bloc inutile, ses traitements javascript n'étant plus actif, les mises en évidence ne seront pas réalisées !!
+
+## Paramètrages ##
+Chaque instance du plugin dispsoe de son propre paramétrage.  
+
+>>
