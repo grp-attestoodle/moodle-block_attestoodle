@@ -4,7 +4,7 @@
 
 ## Différents cas pris en compte
 
-### Vue de l'enseignant
+### [Vue de l'enseignant](vueenseignant.md)
 
 ### Vue de l'apprenant  
 
