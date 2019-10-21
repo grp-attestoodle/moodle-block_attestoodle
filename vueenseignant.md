@@ -1,3 +1,5 @@
+[Retour](index.md)
+
 ## Vue enseignant ##
 
 Les activités utilisées comme jalons sont mise en évidence, quelques soit la formation qu'elles servent.
