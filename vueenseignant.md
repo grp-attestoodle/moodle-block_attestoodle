@@ -45,3 +45,6 @@ L'estimation d'avancement :
 L'accès à la liste des attestations :
  * Permet à l'apprenant d'accèder à la liste des attestations déjà générées. Evidement ces attestions ne concerne que l'apprenant.  
  Cette liste est suivi par sa courbe d'avancement, ou chaque point correspond à la valeur de l'avancement au moment de l'attestations.  
+ 
+ ![param](https://user-images.githubusercontent.com/26385729/67184402-faa8c100-f3e3-11e9-8a72-b11b764f5ebc.png)
+ 
