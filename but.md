@@ -1,3 +1,5 @@
+[Retour](index.md)
+
 # But #
 
 Mettre en relief les activités désignées comme jalons, lors de l'affichage du cours.  
