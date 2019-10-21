@@ -12,12 +12,13 @@ formations.
 
 ### Notification ###
 Lorsque le mode édition est activé, si le cours possède des jalons le bloc affiche le message suivant :
+<center>
 ![venseignant2](https://user-images.githubusercontent.com/26385729/67140246-13d13680-f259-11e9-9fb1-2ddc22620199.png)
-
+</center>
 Si le cours ne porte aucun jalon, le bloc présentera toujours :
-
+<center>
 ![venseignant3](https://user-images.githubusercontent.com/26385729/67140465-e38a9780-f25a-11e9-9217-b5499ff1a742.png)
-
+</center>
 ### Remarque ###
 Cacher le bloc attestoodle, rend le bloc inutile, ses traitements javascript n'étant plus actif, les mises en évidence ne seront pas réalisées !!
 
