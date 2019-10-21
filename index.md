@@ -2,10 +2,7 @@
 
 ## [Objectif](but.md)
 
-## Différents cas pris en compte
-
 ### [Vue de l'enseignant](vueenseignant.md)
 
-### Vue de l'apprenant  
+### [Vue de l'apprenant](vueapprenant.md)  
 
-### Paramétrage du bloc Attestoodle
