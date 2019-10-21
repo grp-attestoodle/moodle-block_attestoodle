@@ -43,5 +43,5 @@ L'estimation d'avancement :
    * entre -5% et 5% il sera considéré "dans les temps"  
 
 L'accès à la liste des attestations :
- * Permet à l'apprenant d'accèder à la liste des attestations déjà générées. Evidement ces attestions ne concerne que l'apprenant.
- Cette liste est suivi par sa courbe d'avancement, ou chaque point correspond à la valeur de l'avancement au moment de la génération d'attestations.  
+ * Permet à l'apprenant d'accèder à la liste des attestations déjà générées. Evidement ces attestions ne concerne que l'apprenant.  
+ Cette liste est suivi par sa courbe d'avancement, ou chaque point correspond à la valeur de l'avancement au moment de l'attestations.  
