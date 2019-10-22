@@ -37,8 +37,12 @@ Le bloc est enrichit par la liste des formations, par défaut la dernière forma
 Il est possible de cliquer sur une formation pour changer la formation affichée.
 
 ![learner_n2](https://user-images.githubusercontent.com/26385729/67265430-02cd3300-f4ae-11e9-9d15-652a24a5de1b.png)
+*Ici l'estimation d'avancement n'est pas affichée, car la durée théorique de la formation Dev attestoodle clone 4_2020 n'est pas renseignée*
 
 
-### La liste des attestations
+### La liste des attestations ###
+La liste des attestations est triée par date de génération, l'apprenant peut télécharger chaque attestation de cette liste.
+![lstattest](https://user-images.githubusercontent.com/26385729/67265987-673cc200-f4af-11e9-8129-1eabec2c801f.png)
+
 
 
