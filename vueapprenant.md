@@ -25,6 +25,6 @@ Certains éléments peuvent ne pas être présent :
 * Le bouton Attestation  
     dépend à la fois du paramétrage et de l'existence d'attestation pour cet apprenant.
 
-### La liste des Attestations
+### La liste des attestations
 
 
