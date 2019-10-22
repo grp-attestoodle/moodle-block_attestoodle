@@ -4,10 +4,10 @@
 
 Le bloc s'affiche en fonction du nombre de formation suivit par l'apprenant.
 
-### L'apprenant ne suit aucune formation concernant le cours ###  
+### 1) L'apprenant ne suit aucune formation concernant le cours ###  
 Le bloc ne s'affiche pas et aucune mise en évidence n'est réalisée.  
 
-### L'apprenant suit une formation concernant le cours ###
+### 2) L'apprenant suit une formation concernant le cours ###
 
 Les jalons du cours sont mis en évidence avec :  
 ![neo2](https://user-images.githubusercontent.com/26385729/67185724-bec32b00-f3e6-11e9-90c2-0ea5c722c120.gif)
@@ -24,6 +24,11 @@ Certains éléments peuvent ne pas être présent :
     soumis au paramétrage et nécessite les dates de début et de fin de formation ainsi que la durée théorique de la formation. 
 * Le bouton Attestations  
     dépend à la fois du paramétrage et de l'existence d'attestation pour cet apprenant.
+
+#### Remarque ####
+La liste des cours permet de naviguer entre les cours de la même formation.
+
+### 3) L'apprenant suit une formation concernant le cours ###
 
 ### La liste des attestations
 
