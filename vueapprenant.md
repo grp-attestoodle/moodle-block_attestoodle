@@ -44,5 +44,9 @@ Il est possible de cliquer sur une formation pour changer la formation affichée
 La liste des attestations est triée par date de génération, l'apprenant peut télécharger chaque attestation de cette liste.
 ![lstattest](https://user-images.githubusercontent.com/26385729/67265987-673cc200-f4af-11e9-8129-1eabec2c801f.png)
 
+Cette liste est suivi du graphique présentant l'avancement au niveau de chaque génération d'attestation.
+![graph](https://user-images.githubusercontent.com/26385729/67266222-f6e27080-f4af-11e9-8d0b-7a68627454d5.png)
+
+
 
 
