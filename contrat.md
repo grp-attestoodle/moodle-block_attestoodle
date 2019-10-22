@@ -1,3 +1,5 @@
+[Retour](index.md)
+
 ## Attestoodle et block_attestoodle ##
 Le bloc nécessite uniquement la version V1.7.0
 
@@ -13,3 +15,8 @@ Le bloc nécessite uniquement la version V1.7.0
 | savepoints | (OK) exited with 0.  |
 | mustache | No relevant files found to process, free pass! |
 | grunt | exited with 0 |
+
+Cf [Travis](https://travis-ci.org/grp-attestoodle/moodle-tool_save_attestoodle/jobs/549619241)
+
+La documentation _phpdoc_ est complete.
+
