@@ -28,7 +28,14 @@ Certains éléments peuvent ne pas être présent :
 #### Remarque ####
 La liste des cours permet de naviguer entre les cours de la même formation.
 
-### 3) L'apprenant suit une formation concernant le cours ###
+### 3) L'apprenant suit n formations concernant le cours ###
+Le bloc est enrichit par la liste des formations, par défaut la dernière formation de la liste est sélectionnée.  
+
+![learner_n](https://user-images.githubusercontent.com/26385729/67265275-9d794200-f4ad-11e9-83bd-63e2e8c636d6.png)
+
+
+Il est possible de cliquer sur une formation pour changer la formation affichée.
+
 
 ### La liste des attestations
 
