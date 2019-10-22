@@ -22,7 +22,7 @@ Certains éléments peuvent ne pas être présent :
     cet affichage est soumis au paramétrage du bloc et nécessite la présence du plugin tool_taskattestoodle
  * L'estimation d'avancement  
     soumis au paramétrage et nécessite les dates de début et de fin de formation ainsi que la durée théorique de la formation. 
-* Le bouton Attestation  
+* Le bouton Attestations  
     dépend à la fois du paramétrage et de l'existence d'attestation pour cet apprenant.
 
 ### La liste des attestations
