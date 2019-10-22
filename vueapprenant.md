@@ -36,6 +36,8 @@ Le bloc est enrichit par la liste des formations, par défaut la dernière forma
 
 Il est possible de cliquer sur une formation pour changer la formation affichée.
 
+![learner_n2](https://user-images.githubusercontent.com/26385729/67265430-02cd3300-f4ae-11e9-9d15-652a24a5de1b.png)
+
 
 ### La liste des attestations
 
