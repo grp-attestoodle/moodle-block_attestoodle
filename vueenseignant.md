@@ -41,13 +41,13 @@ L'estimation d'avancement :
  * Il s'agit de la différence entre le pourcentage du temps crédité obtenu avec le pourcentage du temps passé.  
  Pour le calcul de cette estimation, il faut que la durée théorique de la formation et les dates de début et de fin de formation soient renseignées.  
  Une différence 
-   * supérieur à 5% estime l'apprenant "en avance"  
-   * inférieur à -5% l'apprenant sera considéré "en retard"  
+   * supérieure à 5% estime l'apprenant "en avance"  
+   * inférieure à -5% l'apprenant sera considéré "en retard"  
    * entre -5% et 5% il sera considéré "dans les temps"  
 
 L'accès à la liste des attestations :
- * Permet à l'apprenant d'accèder à la liste des attestations déjà générées. Evidement ces attestions ne concerne que l'apprenant.  
- Cette liste est suivi par sa courbe d'avancement, ou chaque point correspond à la valeur de l'avancement au moment de l'attestations.  
+ * Permet à l'apprenant d'accéder à la liste des attestations déjà générées. Evidement ces attestions ne concerne que l'apprenant.  
+ Cette liste est suivie par sa courbe d'avancement, ou chaque point correspond à la valeur de l'avancement au moment de l'attestation.  
  
  ![param](https://user-images.githubusercontent.com/26385729/67184402-faa8c100-f3e3-11e9-8a72-b11b764f5ebc.png)
  
