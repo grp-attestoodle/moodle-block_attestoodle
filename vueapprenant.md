@@ -36,7 +36,7 @@ Le bloc est enrichi par la liste des formations, par défaut la dernière format
 
 Il est possible de cliquer sur une formation pour changer la formation affichée.
 
-![learner_n2](https://user-images.githubusercontent.com/26385729/67265430-02cd3300-f4ae-11e9-9d15-652a24a5de1b.png)
+![learner_n2](https://user-images.githubusercontent.com/26385729/67265430-02cd3300-f4ae-11e9-9d15-652a24a5de1b.png)  
 *Ici l'estimation d'avancement n'est pas affichée, car la durée théorique de la formation Dev attestoodle clone 4_2020 n'est pas renseignée*
 
 
