@@ -18,7 +18,7 @@ Détail de l'affichage du bloc:
 Certains éléments peuvent ne pas être présents :
  * Le nombre de jalons franchit  
     cet affichage est soumis au paramétrage du bloc
- * Echéance de la prochaine attestation   
+ * Échéance de la prochaine attestation   
     cet affichage est soumis au paramétrage du bloc et nécessite la présence du plugin tool_taskattestoodle
  * L'estimation d'avancement  
     soumis au paramétrage et nécessite les dates de début et de fin de formation ainsi que la durée théorique de la formation. 
