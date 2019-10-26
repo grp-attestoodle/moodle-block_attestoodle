@@ -2,7 +2,7 @@
 
 ## Vue enseignant ##
 
-Les activités utilisées comme jalons sont mise en évidence, quelques soit la formation qu'elles servent.
+Les activités utilisées comme jalons sont mise en évidence, quelle que soit la formation qu'elles servent.
 Cette mise en évidence est réalisée directement sur le/les pages du cours, elle est réalisée par un traitement Javascript qui s'exécute
 une fois la page chargée.
 
