@@ -31,9 +31,9 @@ Chaque instance du plugin dispose de son propre paramétrage.
 
 Le nombre de jalons franchit sur le cours :  
   *  Affiche le nombre de jalons franchit sur le nombre de jalons définit au niveau du cours pour la formation.  
-    L'apprenant connaît ainsi le nombre de jalon restant à passer dans ce cours.  
+    L'apprenant connaît ainsi le nombre de jalons restants à passer dans ce cours.  
 
-La date de prochaine échéance de génération d'attestation :  
+La date de prochaine échéance de génération d'attestations :  
   *  Date qui sera renseignée via l'extension de génération automatique des attestations.  
   L'apprenant connaît ainsi le temps qui lui reste avant la prochaine attestation.  
 
