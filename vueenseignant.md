@@ -22,7 +22,7 @@ Si le cours ne porte aucun jalon, le bloc présentera toujours :
 ![venseignant3](https://user-images.githubusercontent.com/26385729/67140465-e38a9780-f25a-11e9-9217-b5499ff1a742.png)
 
 ### Remarque ###
-Cacher le bloc attestoodle, rend le bloc inutile, ses traitements javascript n'étant plus actif, les mises en évidence ne seront pas réalisées !!
+Cacher le bloc attestoodle, rend le bloc inutile, ses traitements javascript n'étant plus actif, les "mises en évidence" ne seront pas réalisées !!
 
 ## Paramètrages ##
 Chaque instance du plugin dispose de son propre paramétrage.  
