@@ -2,7 +2,7 @@
 
 ## Vue apprenant ##
 
-Le bloc s'affiche en fonction du nombre de formation suivit par l'apprenant.
+Le bloc s'affiche en fonction du nombre de formations suivit par l'apprenant.
 
 ### 1) L'apprenant ne suit aucune formation concernant le cours ###  
 Le bloc ne s'affiche pas et aucune mise en évidence n'est réalisée.  
