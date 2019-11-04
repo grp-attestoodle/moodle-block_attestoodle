@@ -7,16 +7,16 @@ Le bloc nécessite uniquement la version V1.7.0
 
 |  Modules Travis  moodle-plugin-ci | Résultat              |
 |-----------------------------------|-----------------------|
-| phplint                           | ?? files. No syntax error found |
-| phpcpd                            | 0.00% duplicated lines out of ??? total lines of code. |
-| phpmd  | (OK) exited with 0. |
+| phplint                           | 9 files. No syntax error found |
+| phpcpd                            | 0.00% duplicated lines out of 926 total lines of code. |
+| phpmd  | FOUND 0 ERRORS AND 7 VIOLATIONS. |
 | codechecker | (OK) exited with 0.  |
 | validate | (OK) exited with 0.  |
-| savepoints | (OK) exited with 0.  |
+| savepoints | No relevant files found to process, free pass!  |
 | mustache | No relevant files found to process, free pass! |
 | grunt | exited with 0 |
 
-Cf [Travis](https://travis-ci.org/grp-attestoodle/moodle-tool_save_attestoodle/jobs/549619241)
+Cf [Travis](https://travis-ci.org/grp-attestoodle/moodle-block_attestoodle/jobs/607025052)
 
 La documentation _phpdoc_ est complète.
 
