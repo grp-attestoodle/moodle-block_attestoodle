@@ -28,7 +28,7 @@ $plugin->component = 'block_attestoodle';
 $plugin->release = '0.1.0';
 $plugin->version  = 2019101801;
 $plugin->requires = 2012112900;
-$plugin->maturity = MATURITY_ALPHA;
+$plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
     'tool_attestoodle' => 2019061101,
 ];
