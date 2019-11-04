@@ -1,7 +1,7 @@
 [Retour](index.md)
 
 ## Attestoodle et block_attestoodle ##
-Le bloc nécessite uniquement la version V1.7.0
+Le bloc nécessite uniquement la version V1.7.0 d'Attestoodle
 
 ## Qualité du code ##
 
