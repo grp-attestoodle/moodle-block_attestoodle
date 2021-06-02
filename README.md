@@ -3,6 +3,10 @@ Views of training at course level
 
 See doc :  https://grp-attestoodle.github.io/moodle-block_attestoodle/ 
 
+Compatibility : Moodle 3.8, 3.9, 3.10, 3.11
+
+Plugin type : block
+
 ## License ##
 
 2019 Universite du Mans
