@@ -24,12 +24,11 @@
 
 namespace block_attestoodle\privacy;
 
-defined('MOODLE_INTERNAL') || die();
 
 /**
  * The block_attestoodle plugin does not store any data.
  *
- * @package    tool_save_attestoodle
+ * @package    block_attestoodle
  * @copyright  2019 Le Mans University
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
