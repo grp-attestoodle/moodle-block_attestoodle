@@ -25,6 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['attestoodle:addinstance'] = 'Add an Attestoodle block';
+$string['attestoodle:myaddinstance'] = 'Add an Attestoodle block to my Moodle';
 $string['certificate'] = 'Certifications';
 $string['configtitle'] = 'Display for learners';
 $string['coursemilestones'] = 'Course milestones ';
