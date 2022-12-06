@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_attestoodle';
-$plugin->release = '0.1.1';
-$plugin->version  = 2022112500;
+$plugin->release = '0.1.2';
+$plugin->version  = 2022120600;
 $plugin->requires = 2012112900;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [

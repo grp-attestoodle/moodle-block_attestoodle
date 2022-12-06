@@ -63,7 +63,7 @@ class block_attestoodle extends block_base {
      * @return stdClass The block contents.
      */
     public function get_content() {
-        global $PAGE, $CFG, $OUTPUT, $USER, $DB, $COURSE;
+        global $CFG, $OUTPUT, $USER, $DB, $COURSE;
 
         if ($this->content !== null) {
             return $this->content;
@@ -189,7 +189,7 @@ class block_attestoodle extends block_base {
         </script>';
         $this->content->text = $scrpt;
 
-        if ($student == 0 && $PAGE->user_is_editing() && $nb > 0) {
+        if ($student == 0 && $this->page->user_is_editing() && $nb > 0) {
             $this->content->text .= '<div class="p-3 mb-2 bg-danger text-white">';
             $this->content->text .= get_string('warning', 'block_attestoodle') . '</div>';
             return $this->content;
